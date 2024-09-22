@@ -1,0 +1,25 @@
+{
+    "root_path": "/var/www/html/webally.co.za",
+    "include": [
+        "*.html",
+        "*.js",
+        "*.css",
+        "images/*",
+        "fonts/*"
+    ],
+    "exclude": [
+        "*.map",
+        "node_modules/*",
+        "temp/*"
+    ],
+    "cache_on_install": [
+        "index.html",
+        "main.js",
+        "styles.css",
+        "images/logo.png"
+    ],
+    "cache_on_demand": [
+        "blog/*",
+        "projects/*"
+    ]
+}

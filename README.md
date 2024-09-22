@@ -1,1 +1,1 @@
-# PWA-Service-Worker-Config-and-Generator
+# PWA Service Worker Config and Generator
